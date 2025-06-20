@@ -9,7 +9,7 @@
         "email": "catzworld.contact@gmail.com",
         "url": "https://github.com/quentin452"
     },
-    "url": "https://catz-website.infinityfreeapp.com",
+    "url": "https://catz-website.infinityfreeapp.com/files",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
