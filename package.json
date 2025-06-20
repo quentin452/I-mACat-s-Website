@@ -5,11 +5,11 @@
     "description": "Launcher for Biggess Pack Cat Edition V2(V1.21)",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, quentin452, Inc.",
+        "name": "quentin452, Inc.",
         "email": "catzworld.contact@gmail.com",
         "url": "https://github.com/quentin452"
     },
-    "url": "catz-website.infinityfreeapp.com",
+    "url": "https://catz-website.infinityfreeapp.com",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
